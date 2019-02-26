@@ -1,3 +1,4 @@
 adverticum.net
 bannerflow.com
+dyn.bannerflow.com
 indexstat.index.hu
