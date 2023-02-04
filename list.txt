@@ -13,3 +13,4 @@ nc-img.cdn.l7cache.com
 ad.aqua.hu
 newsletterbase.s3-eu-west-1.amazonaws.com
 tsyndicate.com
+parom.hu
