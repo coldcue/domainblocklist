@@ -6,3 +6,6 @@
 ||lgthinq.com^
 ||lgsmartplatform.com^
 ||lgeapi.com^
+
+# nCore
+||parom.hu^
