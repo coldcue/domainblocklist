@@ -1,11 +1,11 @@
 # LG TV Block all
-||lgtvcommon.com^
-||lgtviot.com^
-||lgtvsdp.com^
-||lge.com^
-||lgthinq.com^
-||lgsmartplatform.com^
-||lgeapi.com^
+||lgtvcommon.com^$ctag=device_tv
+||lgtviot.com^$ctag=device_tv
+||lgtvsdp.com^$ctag=device_tv
+||lge.com^$ctag=device_tv
+||lgthinq.com^$ctag=device_tv
+||lgsmartplatform.com^$ctag=device_tv
+||lgeapi.com^$ctag=device_tv
 
 # nCore
 ||parom.hu^
