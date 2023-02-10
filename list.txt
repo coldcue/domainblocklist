@@ -14,3 +14,10 @@ ad.aqua.hu
 newsletterbase.s3-eu-west-1.amazonaws.com
 tsyndicate.com
 parom.hu
+cdpbeacon.lgtvcommon.com
+cdpsvc.lgtvcommon.com
+homeprv.lgtvcommon.com
+nudge.lgtvcommon.com
+rdl.lgtvcommon.com
+recommend.lgtvcommon.com
+lgsmartad.com
